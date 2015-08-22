@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/【第02章】【01排列问题】/【第02章】【01排列问题】.iml" filepath="$PROJECT_DIR$/【第02章】【01排列问题】/【第02章】【01排列问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第02章】【02整数划分问题】/【第02章】【02整数划分问题】.iml" filepath="$PROJECT_DIR$/【第02章】【02整数划分问题】/【第02章】【02整数划分问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第02章】【03Hanoi塔问题】/【第02章】【03Hanoi塔问题】.iml" filepath="$PROJECT_DIR$/【第02章】【03Hanoi塔问题】/【第02章】【03Hanoi塔问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第02章】【04二分搜索技术】/【第02章】【04二分搜索技术】.iml" filepath="$PROJECT_DIR$/【第02章】【04二分搜索技术】/【第02章】【04二分搜索技术】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第02章】【05棋盘覆盖问题】/【第02章】【05棋盘覆盖问题】.iml" filepath="$PROJECT_DIR$/【第02章】【05棋盘覆盖问题】/【第02章】【05棋盘覆盖问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第02章】【06归并排序】/【第02章】【06归并排序】.iml" filepath="$PROJECT_DIR$/【第02章】【06归并排序】/【第02章】【06归并排序】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第02章】【07快速排序】/【第02章】【07快速排序】.iml" filepath="$PROJECT_DIR$/【第02章】【07快速排序】/【第02章】【07快速排序】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第02章】【08线性时间选择】/【第02章】【08线性时间选择】.iml" filepath="$PROJECT_DIR$/【第02章】【08线性时间选择】/【第02章】【08线性时间选择】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第03章】【动态规划】/【第03章】【动态规划】.iml" filepath="$PROJECT_DIR$/【第03章】【动态规划】/【第03章】【动态规划】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第04章】【04哈夫曼编码】/【第04章】【04哈夫曼编码】.iml" filepath="$PROJECT_DIR$/【第04章】【04哈夫曼编码】/【第04章】【04哈夫曼编码】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第04章】【05单源最短路径】/【第04章】【05单源最短路径】.iml" filepath="$PROJECT_DIR$/【第04章】【05单源最短路径】/【第04章】【05单源最短路径】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第04章】【06最小生成树Prim算法】/【第04章】【06最小生成树Prim算法】.iml" filepath="$PROJECT_DIR$/【第04章】【06最小生成树Prim算法】/【第04章】【06最小生成树Prim算法】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第04章】【07最小生成树Kruskal算法】/【第04章】【07最小生成树Kruskal算法】.iml" filepath="$PROJECT_DIR$/【第04章】【07最小生成树Kruskal算法】/【第04章】【07最小生成树Kruskal算法】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第04章】【08多机调度问题】/【第04章】【08多机调度问题】.iml" filepath="$PROJECT_DIR$/【第04章】【08多机调度问题】/【第04章】【08多机调度问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第04章】【贪心算法】/【第04章】【贪心算法】.iml" filepath="$PROJECT_DIR$/【第04章】【贪心算法】/【第04章】【贪心算法】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【01装载问题-递归实现】/【第05章】【01装载问题-递归实现】.iml" filepath="$PROJECT_DIR$/【第05章】【01装载问题-递归实现】/【第05章】【01装载问题-递归实现】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【02装载问题-迭代实现】/【第05章】【02装载问题-迭代实现】.iml" filepath="$PROJECT_DIR$/【第05章】【02装载问题-迭代实现】/【第05章】【02装载问题-迭代实现】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【03批处理作业调度】/【第05章】【03批处理作业调度】.iml" filepath="$PROJECT_DIR$/【第05章】【03批处理作业调度】/【第05章】【03批处理作业调度】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【04符号三角形问题】/【第05章】【04符号三角形问题】.iml" filepath="$PROJECT_DIR$/【第05章】【04符号三角形问题】/【第05章】【04符号三角形问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【05N皇后问题-递归实现】/【第05章】【05N皇后问题-递归实现】.iml" filepath="$PROJECT_DIR$/【第05章】【05N皇后问题-递归实现】/【第05章】【05N皇后问题-递归实现】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【06N皇后问题-迭代实现】/【第05章】【06N皇后问题-迭代实现】.iml" filepath="$PROJECT_DIR$/【第05章】【06N皇后问题-迭代实现】/【第05章】【06N皇后问题-迭代实现】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【07(0-1)背包问题】/【第05章】【07(0-1)背包问题】.iml" filepath="$PROJECT_DIR$/【第05章】【07(0-1)背包问题】/【第05章】【07(0-1)背包问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【08最大团问题】/【第05章】【08最大团问题】.iml" filepath="$PROJECT_DIR$/【第05章】【08最大团问题】/【第05章】【08最大团问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【09图的M着色问题】/【第05章】【09图的M着色问题】.iml" filepath="$PROJECT_DIR$/【第05章】【09图的M着色问题】/【第05章】【09图的M着色问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【10旅行售货问题】/【第05章】【10旅行售货问题】.iml" filepath="$PROJECT_DIR$/【第05章】【10旅行售货问题】/【第05章】【10旅行售货问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【11圆排列问题】/【第05章】【11圆排列问题】.iml" filepath="$PROJECT_DIR$/【第05章】【11圆排列问题】/【第05章】【11圆排列问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【12电路板排列问题】/【第05章】【12电路板排列问题】.iml" filepath="$PROJECT_DIR$/【第05章】【12电路板排列问题】/【第05章】【12电路板排列问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第05章】【13连续邮资问题】/【第05章】【13连续邮资问题】.iml" filepath="$PROJECT_DIR$/【第05章】【13连续邮资问题】/【第05章】【13连续邮资问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【01单源最短路径问题】/【第06章】【01单源最短路径问题】.iml" filepath="$PROJECT_DIR$/【第06章】【01单源最短路径问题】/【第06章】【01单源最短路径问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【02装载问题】/【第06章】【02装载问题】.iml" filepath="$PROJECT_DIR$/【第06章】【02装载问题】/【第06章】【02装载问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【03装载问题-优化版】/【第06章】【03装载问题-优化版】.iml" filepath="$PROJECT_DIR$/【第06章】【03装载问题-优化版】/【第06章】【03装载问题-优化版】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【04装载问题-最优解-优化版】/【第06章】【04装载问题-最优解-优化版】.iml" filepath="$PROJECT_DIR$/【第06章】【04装载问题-最优解-优化版】/【第06章】【04装载问题-最优解-优化版】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【05装载问题-优先列队分支限界法】/【第06章】【05装载问题-优先列队分支限界法】.iml" filepath="$PROJECT_DIR$/【第06章】【05装载问题-优先列队分支限界法】/【第06章】【05装载问题-优先列队分支限界法】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【06布线问题】/【第06章】【06布线问题】.iml" filepath="$PROJECT_DIR$/【第06章】【06布线问题】/【第06章】【06布线问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【07(0-1)背包问题】/【第06章】【07(0-1)背包问题】.iml" filepath="$PROJECT_DIR$/【第06章】【07(0-1)背包问题】/【第06章】【07(0-1)背包问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【08最大团问题】/【第06章】【08最大团问题】.iml" filepath="$PROJECT_DIR$/【第06章】【08最大团问题】/【第06章】【08最大团问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【09旅行售货员问题】/【第06章】【09旅行售货员问题】.iml" filepath="$PROJECT_DIR$/【第06章】【09旅行售货员问题】/【第06章】【09旅行售货员问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【10电路板排列问题】/【第06章】【10电路板排列问题】.iml" filepath="$PROJECT_DIR$/【第06章】【10电路板排列问题】/【第06章】【10电路板排列问题】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【第06章】【11批处理作业调度】/【第06章】【11批处理作业调度】.iml" filepath="$PROJECT_DIR$/【第06章】【11批处理作业调度】/【第06章】【11批处理作业调度】.iml" />
+    </modules>
+  </component>
+</project>
